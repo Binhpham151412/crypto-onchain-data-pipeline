@@ -25,7 +25,7 @@ This project demonstrates how developers can build a simple **crypto analytics p
 
 Blockchain data is fetched directly from:
 
-- **Blockchair API** — Bitcoin, Ethereum, and other chains
+- **Blockchair API** — Bitcoin, Ethereum, and other chains: https://blockchair.com/api/docs#link_M3
 - **Public blockchain datasets**
 
 Example metrics collected:
