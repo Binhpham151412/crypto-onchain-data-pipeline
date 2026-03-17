@@ -94,7 +94,7 @@ Insights / Reports
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/crypto-onchain-data-pipeline.git
+git clone https://github.com/Binhpham151412/crypto-onchain-data-pipeline.git
 cd crypto-onchain-data-pipeline
 pip install -r requirements.txt
 ```
