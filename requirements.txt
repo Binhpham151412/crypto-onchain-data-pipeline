@@ -1,0 +1,11 @@
+# HTTP requests
+requests>=2.31.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Timezone support
+tzdata>=2024.1
+
+# Data processing
+pandas>=2.0.0
